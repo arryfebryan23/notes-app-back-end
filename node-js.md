@@ -1,0 +1,6 @@
+- nodemon
+- jest
+- nanoid 3.xxx
+- HAPI
+- eslint
+- joi
