@@ -25,3 +25,8 @@ NVM NODE JS : NODE JS VERSION MANAGER
 - Hapi plugin untuk modularisasi
 - Data validation node js dengan JOI
 - Custom error berdasarkan data validation 
+
+## Database dengan Amazon RDS
+- PostgreSQL
+- AmazonRDS
+- Migration Node JS dengan postgres dan node-pg-migrate
