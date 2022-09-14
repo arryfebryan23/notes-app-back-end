@@ -10,6 +10,7 @@
 - node postgres - npm install pg
 - node pg migrate - npm install node-pg-migrate
 - dotenv - npm install dotenv
+- bcrypt
 
 
 server 
