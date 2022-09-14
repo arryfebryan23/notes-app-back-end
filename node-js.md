@@ -11,8 +11,9 @@
 - node pg migrate - npm install node-pg-migrate
 - dotenv - npm install dotenv
 - bcrypt
+- jwt hapu - npm install @hapi/jwt
 
-
+require('crypto').randomBytes(64).toString('hex');
 server 
 NVM NODE JS : NODE JS VERSION MANAGER
 - curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh 
